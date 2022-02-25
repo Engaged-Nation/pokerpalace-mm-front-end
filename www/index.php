@@ -70,6 +70,6 @@ if ($clientDBName == 'pokerpalace-mm_portal')
             }(jQuery)
         );
     </script>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=pokerpalace-mm&client_id=9beb2c53b184deb77e3fbf266f879ae3" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=pokerpalace-mm&client_id=cf406281aa3bf121c0a0308ff7f892f6" type="text/javascript"></script>
 </body>
 </html>
