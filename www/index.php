@@ -6,9 +6,9 @@ $title = $description = '';
 $title = 'Million Dollar March Mania Challenge presented by _____';
 $description = "Take a shot at becoming a millionaire during the men's college basketball tournament! Play free games to win cash prizes and more all the way through the Big Dance.";
 
-if ($clientDBName == 'pokerpalace-mm_portal')
-    $title = "Welcome to the 2022 Million Dollar March Mania Challenge.";
-    $description = "Take a shot at becoming a millionaire during the men's college basketball tournament! Play free games to win cash prizes and more all the way through the Big Dance.";
+if ($clientDBName == 'pokerpalace_mm_portal')
+    $title = "$100,000 March Mania Challenge presented by Poker Palace Casino";
+    $description = "Take a shot at winning $100,000 during the men's college basketball tournament! Play fun free games online for a chance at your share of $1,000 cash. Brought to you by Poker Palace Casino in Las Vegas, Nevada.";
 ?>
 <!DOCTYPE html>
 <html lang="en" class="setTo100 themed-layout">
